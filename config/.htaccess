@@ -1,0 +1,2 @@
+# Acceso directo bloqueado: solo index.php puede usar estos archivos
+Require all denied

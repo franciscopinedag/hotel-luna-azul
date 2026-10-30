@@ -1,0 +1,19 @@
+# Datos generados en ejecución
+storage/*
+!storage/.gitkeep
+!storage/.htaccess
+
+# Configuración local / secretos
+.env
+config/config.local.php
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
